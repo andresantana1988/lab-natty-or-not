@@ -15,7 +15,10 @@ Como essa é a primeira vez que criei um prompt de IA, foi necessário pesquisas
 No Prompt , além de uma descrição do tipo de carro, também foi descrita a paisagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Modelo T-5100 Blac Bird](https://github.com/andresantana1988/lab-natty-or-not/blob/main/images/t_5100_black_bird.jpg)
+
+
+Acesse a pasta Image para ver outras imagens geradas.
 
 ## 💭 Reflexão (Opcional)
 
