@@ -1,0 +1,9 @@
+Prompt utilizado para gerar as imagens
+
+Descrição em português
+"crie um conceito futurista  e super realista de um carro esportivo. O carro deve ser pintado na cor  grafite com detalhes em laranja e preto. As rodas devem ter um design moderno e com detalhes em cromo. A paisagem de fundo deve ser uma estrada com montanhas ao fundo"
+
+Prompt em ingles
+
+
+Create a futuristic and super realistic concept of a sports car. The car must be painted in graphite color with orange and black details. The wheels must have a modern design with chrome details. The background landscape should be a road with mountains in the background
